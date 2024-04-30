@@ -10,6 +10,7 @@
 # Introduction to GitHub
 
 ok I'm just adding a line of code like a true hacker
+googly eyed madafaka be chillin in da pool amplified like a ghoul sippin on tasty molecule  
 
 _Get started using GitHub in less than an hour._
 
