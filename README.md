@@ -9,6 +9,8 @@
 
 # Introduction to GitHub
 
+ok I'm just adding a line of code like a true hacker
+
 _Get started using GitHub in less than an hour._
 
 </header>
